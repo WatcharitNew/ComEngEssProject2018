@@ -1,0 +1,7 @@
+Key
+	10	MoveUp
+	20	MoveDown
+	30 	MoveLeft
+	40	MoveRight
+	50	ClickLeft
+	60	ClickRight
